@@ -95,7 +95,7 @@ A few notes about this app:
 
 Of course, if there's something that you don't understand, or you find a bug - feel free to let me know! You can always email me at [matt@matthewwang.me](mailto:matt@matthewwang.me), or use the mentor channel at QWER Hacks.
 
-If you want to try out a live version that's hooked up to the database and try sending some messages to me, check out a live version here!
+If you want to try out a live version that's hooked up to the database and try sending some messages to me, check out a live version [here](https://qwerhacks-22-firebase-demo.netlify.app/).
 
 Ok, let's get started!
 
@@ -749,6 +749,8 @@ As a quick recap, we:
 - used a batch `.update()` write operation
 
 This is it for the main content of the workshop! If you want to check the final code, [take a look at the completed code!](https://github.com/matthewcn56/qwerhacks-22-firebase-workshop/tree/main/main-workshop/completed)!
+
+And for the entire site in all its glory, check it out [here](https://qwerhacks-22-firebase-demo.netlify.app/)!
 
 ## Conclusion and Next Steps
 
